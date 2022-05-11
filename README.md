@@ -14,7 +14,9 @@ It also has a history and library feature that you can use to go back to the vid
 
 # Channels
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/09/YOUTUBE-channels-to-follow.jpg?auto=format&q=60&w=1860&h=1395&fit=crop&crop=faces)
+
+Channels are user made. This is where videos, made or liked by the users, are seen and will be stored there forever unless the channel or video is deleted. Making channels is a great way to share your thoughts and ideas through videos to everyone. It is also a great way to earn money and become your dream job.
 
 ```markdown
 Syntax highlighted code block
