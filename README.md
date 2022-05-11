@@ -1,10 +1,16 @@
 ![](https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg)
-
+# Introduction
 YouTube is an American online video sharing and social media platform headquartered in San Bruno, California. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. Owned by Google, it is the second most visited website, right after Google itself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is the most popular online video sharing site. Having over **800 million videos, 37 million channels, 2 billion users and 1 billion viewers per day.**
 
-### Markdown
+# Interface
+
+![](https://upload.wikimedia.org/wikipedia/en/1/1c/YouTube_homepage.png)
+
+The Youtube interface is pretty basic. You can choose different kinds of video categories like gaming, sports, live, movies and news. You can also search for the video that you want and Youtube will try its best to find the best result for you. It also has a new feaure that was launched in India for testing on 2020 and was officially released on 2021, which is the Youtube Shorts which are videos that are 1 minute long or less that will save you some time to do some other work.
+
+It also has a history and library feature that you can use to go back to the videos you have watched in case you missed something or watch again your favorite movies or videos. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
