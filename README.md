@@ -12,6 +12,8 @@ The Youtube interface is pretty basic. You can choose different kinds of video c
 
 It also has a history and library feature that you can use to go back to the videos you have watched in case you missed something or watch again your favorite movies or videos. 
 
+# Channels
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
